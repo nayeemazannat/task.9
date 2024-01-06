@@ -1,0 +1,32 @@
+.navbar-nav{
+    margin-left: 125px;
+    font-size: 18px;
+    
+}
+
+.nav-link{
+    margin-left: 25px;
+}
+
+.navbar-brand{
+    font-size: 40px;
+}
+body{font-family: 'Poppins', sans-serif;}
+
+.carousel-caption{
+    bottom: 220px;
+}
+.carousel-caption h1{
+    font-size: 80px;
+    margin-top: 25px;
+}
+.card body{
+    background-color: blue;
+}
+.opa-img{
+    opacity: 0.5;
+}
+.caro-img{
+    background-color: black;
+}
+
